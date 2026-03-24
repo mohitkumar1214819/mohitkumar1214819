@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am Mohit Kumar <br>A passionate Data Analyst.<br>Currently I am Learning Data Analytics From PhysicsWallah.<br>You Can reach me Through my E-mail - mkumar.connect@gmail.com. <br> The Tool I know Is Microsoft Excel, SQL, Microsoft Power BI, Python(Programming Language),<br>Google Sheet, Machine Learning.   
+"Passionate Aspiring Data Analyst with a strong background in analyzing complex datasets to find actionable insights. Proficient in python(Pandas, Numpy), SQL, and Data Visualisation tools like Power BI. Through my academic projects, I have developed a knack for turning, messy, raw data into clean, insightful narratives. Eager
+to bring my analytical skills to a dynamic team to solve real-world problems. skilled in transforming data into visual stories".
 
 
 # 💻 Tech Stack:
