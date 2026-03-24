@@ -1,4 +1,4 @@
-# 💫 About Me:
+# I am Mohit Kumar
 "Passionate Aspiring Data Analyst with a strong background in analyzing complex datasets to find actionable insights. Proficient in python(Pandas, Numpy), SQL, and Data Visualisation tools like Power BI. Through my academic projects, I have developed a knack for turning, messy, raw data into clean, insightful narratives. Eager
 to bring my analytical skills to a dynamic team to solve real-world problems. skilled in transforming data into visual stories".
 
