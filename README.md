@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Mohit Kumar <br>A passionate Data Analyst from India<br>Currently I am Learning Data Analytics From PhysicsWallah<br>You Can reach me Through my email - mkumar.connect@gmail.com <br> The Tool I know Is Microsoft Excel, SQL, Microsoft Power BI, Python(Programming Language),<br>Google Sheet, Machine Learning.   
+I am Mohit Kumar <br>A passionate Data Analyst.<br>Currently I am Learning Data Analytics From PhysicsWallah.<br>You Can reach me Through my E-mail - mkumar.connect@gmail.com. <br> The Tool I know Is Microsoft Excel, SQL, Microsoft Power BI, Python(Programming Language),<br>Google Sheet, Machine Learning.   
 
 
 # 💻 Tech Stack:
